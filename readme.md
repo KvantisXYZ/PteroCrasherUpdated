@@ -1,11 +1,7 @@
 
-
-
----
-
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/1UkJFTC.jpeg" alt="Project logo"></a>
+ <img width=350px height=350px src="https://i.ibb.co/BHtjxJ7t/image.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">💥 PteroCrasherUpdated 💥</h3>
