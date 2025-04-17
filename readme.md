@@ -1,7 +1,4 @@
-<p align="center">play2go - наши спонсоры</p>
-<a href="https://new.play2go.cloud" rel="noopener">
-  <img src="https://i.imgur.com/7T4ivo6.jpeg" style="border-radius: 50px;" />
-</a>
+
 
 
 ---
@@ -11,9 +8,7 @@
  <img width=200px height=200px src="https://i.imgur.com/1UkJFTC.jpeg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">💥 Pterodactyl Crasher</h3>
-<h3 align="center">Проект дорабатывается мной</h3>
-
+<h3 align="center">💥 PteroCrasherUpdated 💥</h3>
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
