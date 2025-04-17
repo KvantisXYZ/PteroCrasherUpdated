@@ -1,15 +1,14 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=350px height=350px src="https://i.ibb.co/BHtjxJ7t/image.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.ibb.co/BHtjxJ7t/image.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">💥 PteroCrasherUpdated 💥</h3>
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Stars](https://img.shields.io/github/stars/xdearboy/Pterodactyl-Crasher?style=for-the-badge)]()
-[![Forks](https://img.shields.io/github/forks/xdearboy/Pterodactyl-Crasher?style=for-the-badge)]()
+[![Stars](https://img.shields.io/github/stars/KvantisXYZ/PteroCrasherUpdated?style=for-the-badge)]()
+[![Forks](https://img.shields.io/github/forks/KvantisXYZ/PteroCrasherUpdated?style=for-the-badge)]()
 
 </div>
 
